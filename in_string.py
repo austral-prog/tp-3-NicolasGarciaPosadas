@@ -13,6 +13,6 @@ def check_vowels():
     Tieneu = "u" in name
     print(f"Contiene u: {Tieneu}")
 
-check_vowels()
+
 # Para verificar este ejercicio ejecutar el comando
 # `pytest tp3_in_string_test.py` o `python tp3_in_string_test.py`
